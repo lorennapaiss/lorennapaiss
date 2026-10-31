@@ -37,8 +37,9 @@ Sou Analista de Dados com experiência no ciclo de vida dos dados, da coleta e p
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Employee Attrition — Modelo Preditivo e Dashboard](https://github.com/lorennapaiss/employee-attrition-model) | Pipeline de modelagem para identificar colaboradores com risco de saída, com explicabilidade e dashboard operacional para RH. | Python, XGBoost, SHAP, scikit-learn, JavaScript |
-| [IMDb Top 1000 — Análise Exploratória](https://github.com/lorennapaiss/imdb-analysis) | Análise dos fatores associados à avaliação, popularidade e desempenho dos filmes mais bem avaliados do IMDb. | Python, Pandas, Matplotlib, Jupyter |
+| [Employee Attrition — Modelo Preditivo e Dashboard](https://github.com/lorennapaiss/employee-attrition-model) | Pipeline de modelagem para identificar colaboradores com risco de saída, com explicabilidade e dashboard operacional para RH. · [**Ver dashboard ↗**](https://lorennapaiss.github.io/attrition-model/) | Python, XGBoost, SHAP, scikit-learn, Chart.js |
+| [IMDb Top 1000 — Análise e Dashboard](https://github.com/lorennapaiss/imdb-analysis) | Análise dos fatores associados à avaliação, popularidade e desempenho dos filmes mais bem avaliados do IMDb, com dashboard interativo. · [**Ver dashboard ↗**](https://lorennapaiss.github.io/imdb/) | Python, Pandas, Matplotlib, JavaScript, Chart.js |
+| [HR Attrition — Diagnóstico Exploratório](https://lorennapaiss.github.io/attrition/) | EDA de 4.410 colaboradores para identificar padrões e perfis combinados de risco de attrition. · [**Ver análise ↗**](https://lorennapaiss.github.io/attrition/) | Python, Pandas, Seaborn, Jupyter |
 | [Portfólio de Dados](https://lorennapaiss.github.io/) | Apresentação dos meus projetos, habilidades e trajetória profissional em dados. | HTML, CSS, JavaScript |
 
 ## Atualmente
